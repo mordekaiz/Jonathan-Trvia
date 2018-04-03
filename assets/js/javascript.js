@@ -56,7 +56,7 @@ var question8 = new question({
 });
 
 var question9 = new question({
-	charName: "9. What animal only sleeps five minutes a day?",
+	charName: "9. In the game ‘Mortal Kombat’, what phrase is heard when Scorpion uses his spear?",
 	answerOptions: ["DIE!", "Get over here!", "Burn alive!", "get rekt!"],
 	answer: 1,
 	pageNumber: "page-9"
